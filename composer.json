@@ -1,11 +1,11 @@
 {
-  "name": "tarfin-labs/laravel-spatial",
+  "name": "coresmart/laravel-spatial",
   "description": "Laravel package to work with geospatial data types and functions.",
   "keywords": [
     "tarfin-labs",
     "laravel-spatial"
   ],
-  "homepage": "https://github.com/tarfin-labs/laravel-spatial",
+  "homepage": "https://github.com/coresmart/laravel-spatial",
   "license": "MIT",
   "type": "library",
   "authors": [
